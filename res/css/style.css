@@ -1,0 +1,51 @@
+body{
+    background-color: aqua;
+}
+#play{
+    width: 250px;
+    height: 120px;
+    background-color: rosybrown;
+    font-size: 25px;
+    margin-top: 18%;
+    margin-left: 40%;
+}
+
+
+#menu{
+    display: none;
+    width: 15%;
+}
+
+#menu2{
+    display: none;
+    width: 15%;
+}
+
+#objednavky{
+    display: none;
+}
+
+#kok{
+    width: 250px;
+    font-size: 20px;
+}
+
+#places{
+    display: none;
+    margin-top: 28em;
+}
+
+#order{
+    width: 15%;
+    margin-left: 20em;    
+}
+
+#gril{
+    width: 15%;
+    margin-left: 5em;
+}
+
+#built{
+    width: 15%;
+    margin-left: 5em;
+}
